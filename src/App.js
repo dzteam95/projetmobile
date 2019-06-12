@@ -21,7 +21,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome to NBA app</Text>
+        <Text style={styles.welcome}>Welcome to NBA App</Text>
        
       </View>
     );
