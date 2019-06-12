@@ -1,6 +1,5 @@
 import React from 'react';
-import {Image, StyleSheet, Text, View, ScrollView, FlatList} from 'react-native';
-import SvgUri from 'react-native-svg-uri';
+import {Image, StyleSheet, Text, View, FlatList} from 'react-native';
 
 
 const axios = require('axios');
